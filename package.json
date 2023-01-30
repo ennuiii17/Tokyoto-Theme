@@ -1,0 +1,21 @@
+{
+  "name": "tokyoto",
+  "displayName": "Tokyoto Theme",
+  "description": "A theme for those who enjoy a certain aesthetic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyoto Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tokyoto Theme-color-theme.json"
+      }
+    ]
+  }
+}
