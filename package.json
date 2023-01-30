@@ -11,6 +11,10 @@
     "name": "Erick Lozano",
     "email": "ericklozano2016@outlook.com"
   },
+  "repository": {
+    "url": "https://github.com/ennuiii17/Tokyoto-Theme.git",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
