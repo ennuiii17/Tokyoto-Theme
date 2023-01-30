@@ -1,10 +1,15 @@
 {
   "name": "tokyoto",
-  "displayName": "Tokyoto Theme",
+  "displayName": "Tokyoto",
   "description": "A theme for those who enjoy a certain aesthetic",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
+  },
+  "icon": "./ericklozano/downloads/tokyoto-theme.png",
+  "author": {
+    "name": "Erick Lozano",
+    "email": "ericklozano2016@outlook.com"
   },
   "categories": [
     "Themes"
