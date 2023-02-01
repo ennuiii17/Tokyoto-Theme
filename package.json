@@ -2,11 +2,12 @@
   "name": "tokyoto",
   "displayName": "Tokyoto",
   "description": "A theme for those who enjoy a certain aesthetic",
+  "publisher": "ErickLozano",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },
-  "icon": "./ericklozano/downloads/tokyoto-theme.png",
+  "icon": "icons/tokyoto-theme.png",
   "author": {
     "name": "Erick Lozano",
     "email": "ericklozano2016@outlook.com"
